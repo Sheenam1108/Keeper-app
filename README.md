@@ -27,5 +27,8 @@ The project follows a standard folder structure for a React application:
 /App.js: The main component that serves as the entry point for the application.
 /index.js: Renders the App component and mounts it to the DOM.
 /public: Contains the static assets and HTML file.
+Screenshot:
+![image](https://github.com/Sheenam1108/Keeper-app/assets/76041153/f7a60e01-00da-47d3-99b4-7bdb1323f747)
+
 Contributing
 Contributions to the Keeper app are welcome. If you have any ideas, improvements, or bug fixes, feel free to submit a pull request.
